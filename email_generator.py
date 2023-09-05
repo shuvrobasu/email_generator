@@ -1,4 +1,4 @@
-####################################################################################################################
+####################################################################################################################################################
 # A simple python script that will generate email ids based on combination of name and date of birth (dob)
 # various combinations are used and dob is split to include in combinations
 # USECASE : social engineering, phishing attack or brute forcing. This script will generate ~220 id's
@@ -6,8 +6,8 @@
 # WARNING : IT IS ILLEGAL TO TRY TO GAIN ACCESS TO AN EMAIL ID WHICH DOES NOT BELONG TO YOU. DO NOT USE THIS PROGRAM
 #           FOR ANY ILLEGAL OR NON-ETHICAL PUPOSES UNLESS YOU HAVE EXPLICIT PERMISSION FROM THE OWNER OF THE EMAIL ID
 # RELEASE : AS FREE CODE UNDER GPL.
-# NOTE : In some cases the ANSI Color codes may not work on Windows. In that case replace the statements with normal print()
-####################################################################################################################
+# NOTE : In some cases the ANSI Color codes may not work on Windows. In that case replace the statements with normal print_XXX() with print()
+###################################################################################################################################################
 
 #standard imports required
 import re
