@@ -5,7 +5,7 @@
 # Author : Shuvro Basu, 2023.
 # WARNING : IT IS ILLEGAL TO TRY TO GAIN ACCESS TO AN EMAIL ID WHICH DOES NOT BELONG TO YOU. DO NOT USE THIS PROGRAM
 #           FOR ANY ILLEGAL OR NON-ETHICAL PUPOSES UNLESS YOU HAVE EXPLICIT PERMISSION FROM THE OWNER OF THE EMAIL ID
-# RELEASE : AS FREE CODE UNDER GPL.
+# RELEASE : AS FREE CODE UNDER MIT.
 # NOTE : In some cases the ANSI Color codes may not work on Windows. In that case replace the statements with normal print_XXX() with print()
 ###################################################################################################################################################
 
